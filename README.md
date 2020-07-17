@@ -30,3 +30,9 @@ within a Cling cell to execute the HPX code in parallel. Please find the example
 
 
 
+### Course materials
+
+* [Lecture slides](https://github.com/diehlpkteaching/ParallelComputationMath)
+* [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
+* [Code](https://github.com/diehlpkteaching/ParallelComputationMathExamples)
+* [Lecture notes](https://github.com/diehlpkteaching/ParallelComputationMathScript)
