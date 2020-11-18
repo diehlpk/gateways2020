@@ -43,3 +43,8 @@ For the example with std::async we have to use the terminal, since cling does no
 * [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
 * [Code](https://github.com/diehlpkteaching/ParallelComputationMathExamples)
 * [Lecture notes](https://github.com/diehlpkteaching/ParallelComputationMathScript)
+
+
+### References
+
+* P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, In Proceedings of Gateways 2020, Science Gateways Community Institute (SGCI), [Link](https://osf.io/qbtj3/)
